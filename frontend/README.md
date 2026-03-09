@@ -1,0 +1,1 @@
+# Frontend folder (Flutter app)
